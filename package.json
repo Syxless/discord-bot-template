@@ -1,0 +1,14 @@
+{
+    "name": "template-bot-syxles",
+    "version": "1.0.0",
+    "description": "Template de bot Discord.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "discord.js": "^14.11.0",
+      "dotenv": "^16.3.1"
+    }
+  }
+  
